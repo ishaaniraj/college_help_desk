@@ -1,0 +1,47 @@
+{
+  "library": {
+    "floor": "1st floor",
+    "location": "near corridor",
+    "description": "Library is located on the first floor near the main corridor."
+  },
+
+  "office": {
+    "floor": "ground floor",
+    "location": "administrative block",
+    "description": "Office is located in the administrative block near the entrance."
+  },
+
+  "conference hall": {
+    "floor": "1st floor",
+    "location": "north side",
+    "description": "Conference hall is on the first floor near the staircase."
+  },
+
+  "classroom 1": {
+    "floor": "1st floor",
+    "location": "east corridor"
+  },
+
+  "classroom 2": {
+    "floor": "1st floor",
+    "location": "east corridor"
+  },
+
+  "lab 1": {
+    "floor": "ground floor",
+    "location": "west side"
+  },
+
+  "lab 2": {
+    "floor": "ground floor",
+    "location": "west side"
+  },
+
+  "staircase": {
+    "location": "near the corridor junction"
+  },
+
+  "washroom": {
+    "location": "near staircase"
+  }
+}
