@@ -1,5 +1,280 @@
 {
   
+  ,
+  {
+    "Floor": "Ground Floor",
+    "Primary_Department": "General / Admin",
+    "Room_Number": "001",
+    "Room_Description": "Faculty Lounge",
+    "Floor_Landmarks": "Reception, Gandhi Quote, Table Tennis, Courtyard"
+  },
+  {
+    "Floor": "Ground Floor",
+    "Primary_Department": "General / Admin",
+    "Room_Number": "002",
+    "Room_Description": "Main Office",
+    "Floor_Landmarks": "Reception, Gandhi Quote, Table Tennis, Courtyard"
+  },
+  {
+    "Floor": "Ground Floor",
+    "Primary_Department": "General / Admin",
+    "Room_Number": "004",
+    "Room_Description": "Central Store",
+    "Floor_Landmarks": "Reception, Gandhi Quote, Table Tennis, Courtyard"
+  },
+  {
+    "Floor": "Ground Floor",
+    "Primary_Department": "General / Admin",
+    "Room_Number": "G-05",
+    "Room_Description": "FM & Hydraulic Lab (Civil)",
+    "Floor_Landmarks": "Reception, Gandhi Quote, Table Tennis, Courtyard"
+  },
+  {
+    "Floor": "Ground Floor",
+    "Primary_Department": "General / Admin",
+    "Room_Number": "006",
+    "Room_Description": "Conference Room",
+    "Floor_Landmarks": "Reception, Gandhi Quote, Table Tennis, Courtyard"
+  },
+  {
+    "Floor": "First Floor",
+    "Primary_Department": "Civil Eng / General",
+    "Room_Number": "101",
+    "Room_Description": "Civil Engineering",
+    "Floor_Landmarks": "Lift Lobby, Toilets (Ladies/Gents/Staff)"
+  },
+  {
+    "Floor": "First Floor",
+    "Primary_Department": "Civil Eng / General",
+    "Room_Number": "102",
+    "Room_Description": "Civil Engineering",
+    "Floor_Landmarks": "Lift Lobby, Toilets (Ladies/Gents/Staff)"
+  },
+  {
+    "Floor": "First Floor",
+    "Primary_Department": "Civil Eng / General",
+    "Room_Number": "103",
+    "Room_Description": "24 Batch Civil (Section A)",
+    "Floor_Landmarks": "Lift Lobby, Toilets (Ladies/Gents/Staff)"
+  },
+  {
+    "Floor": "First Floor",
+    "Primary_Department": "Civil Eng / General",
+    "Room_Number": "104",
+    "Room_Description": "24 Batch Civil (Section B)",
+    "Floor_Landmarks": "Lift Lobby, Toilets (Ladies/Gents/Staff)"
+  },
+  {
+    "Floor": "First Floor",
+    "Primary_Department": "Civil Eng / General",
+    "Room_Number": "105",
+    "Room_Description": "Drawing Room (Civil Engineering)",
+    "Floor_Landmarks": "Lift Lobby, Toilets (Ladies/Gents/Staff)"
+  },
+  {
+    "Floor": "First Floor",
+    "Primary_Department": "Civil Eng / General",
+    "Room_Number": "106",
+    "Room_Description": "Civil Engineering",
+    "Floor_Landmarks": "Lift Lobby, Toilets (Ladies/Gents/Staff)"
+  },
+  {
+    "Floor": "First Floor",
+    "Primary_Department": "Civil Eng / General",
+    "Room_Number": "112",
+    "Room_Description": "Environment Engineering Lab",
+    "Floor_Landmarks": "Lift Lobby, Toilets (Ladies/Gents/Staff)"
+  },
+  {
+    "Floor": "First Floor",
+    "Primary_Department": "Civil Eng / General",
+    "Room_Number": "117",
+    "Room_Description": "Language Lab",
+    "Floor_Landmarks": "Lift Lobby, Toilets (Ladies/Gents/Staff)"
+  },
+  {
+    "Floor": "First Floor",
+    "Primary_Department": "Civil Eng / General",
+    "Room_Number": "119",
+    "Room_Description": "Common Room",
+    "Floor_Landmarks": "Lift Lobby, Toilets (Ladies/Gents/Staff)"
+  },
+  {
+    "Floor": "First Floor",
+    "Primary_Department": "Civil Eng / General",
+    "Room_Number": "120",
+    "Room_Description": "Examination Office",
+    "Floor_Landmarks": "Lift Lobby, Toilets (Ladies/Gents/Staff)"
+  },
+  {
+    "Floor": "First Floor",
+    "Primary_Department": "Civil Eng / General",
+    "Room_Number": "122",
+    "Room_Description": "Civil Engineering",
+    "Floor_Landmarks": "Lift Lobby, Toilets (Ladies/Gents/Staff)"
+  },
+  {
+    "Floor": "First Floor",
+    "Primary_Department": "Civil Eng / General",
+    "Room_Number": "123",
+    "Room_Description": "Civil Engineering",
+    "Floor_Landmarks": "Lift Lobby, Toilets (Ladies/Gents/Staff)"
+  },
+  {
+    "Floor": "First Floor",
+    "Primary_Department": "Civil Eng / General",
+    "Room_Number": "128",
+    "Room_Description": "Examination Room",
+    "Floor_Landmarks": "Lift Lobby, Toilets (Ladies/Gents/Staff)"
+  },
+  {
+    "Floor": "Second Floor",
+    "Primary_Department": "EE / CSE / General",
+    "Room_Number": "201",
+    "Room_Description": "EE & CSE",
+    "Floor_Landmarks": "Lift Lobby, Toilets (Bear Statue)"
+  },
+  {
+    "Floor": "Second Floor",
+    "Primary_Department": "EE / CSE / General",
+    "Room_Number": "202",
+    "Room_Description": "24 Batch Electrical",
+    "Floor_Landmarks": "Lift Lobby, Toilets (Bear Statue)"
+  },
+  {
+    "Floor": "Second Floor",
+    "Primary_Department": "EE / CSE / General",
+    "Room_Number": "203",
+    "Room_Description": "EE & CSE",
+    "Floor_Landmarks": "Lift Lobby, Toilets (Bear Statue)"
+  },
+  {
+    "Floor": "Second Floor",
+    "Primary_Department": "EE / CSE / General",
+    "Room_Number": "213",
+    "Room_Description": "Library",
+    "Floor_Landmarks": "Lift Lobby, Toilets (Bear Statue)"
+  },
+  {
+    "Floor": "Second Floor",
+    "Primary_Department": "EE / CSE / General",
+    "Room_Number": "215",
+    "Room_Description": "Computer Centre",
+    "Floor_Landmarks": "Lift Lobby, Toilets (Bear Statue)"
+  },
+  {
+    "Floor": "Second Floor",
+    "Primary_Department": "EE / CSE / General",
+    "Room_Number": "219",
+    "Room_Description": "EE & CSE",
+    "Floor_Landmarks": "Lift Lobby, Toilets (Bear Statue)"
+  },
+  {
+    "Floor": "Second Floor",
+    "Primary_Department": "EE / CSE / General",
+    "Room_Number": "220",
+    "Room_Description": "EE & CSE",
+    "Floor_Landmarks": "Lift Lobby, Toilets (Bear Statue)"
+  },
+  {
+    "Floor": "Second Floor",
+    "Primary_Department": "EE / CSE / General",
+    "Room_Number": "221",
+    "Room_Description": "Electrical",
+    "Floor_Landmarks": "Lift Lobby, Toilets (Bear Statue)"
+  },
+  {
+    "Floor": "Third Floor",
+    "Primary_Department": "Mechanical / CSE",
+    "Room_Number": "301",
+    "Room_Description": "Mechanical Engg. & CSE",
+    "Floor_Landmarks": "Lift Lobby, Notice Boards, Toilets (Rabbit Statue)"
+  },
+  {
+    "Floor": "Third Floor",
+    "Primary_Department": "Mechanical / CSE",
+    "Room_Number": "302",
+    "Room_Description": "5th Sem CSE (IoT & AIML)",
+    "Floor_Landmarks": "Lift Lobby, Notice Boards, Toilets (Rabbit Statue)"
+  },
+  {
+    "Floor": "Third Floor",
+    "Primary_Department": "Mechanical / CSE",
+    "Room_Number": "303",
+    "Room_Description": "24 Batch CSE (IoT)",
+    "Floor_Landmarks": "Lift Lobby, Notice Boards, Toilets (Rabbit Statue)"
+  },
+  {
+    "Floor": "Third Floor",
+    "Primary_Department": "Mechanical / CSE",
+    "Room_Number": "304",
+    "Room_Description": "24 Batch CSE (AIML)",
+    "Floor_Landmarks": "Lift Lobby, Notice Boards, Toilets (Rabbit Statue)"
+  },
+  {
+    "Floor": "Third Floor",
+    "Primary_Department": "Mechanical / CSE",
+    "Room_Number": "305",
+    "Room_Description": "Class Room CSE (IoT)",
+    "Floor_Landmarks": "Lift Lobby, Notice Boards, Toilets (Rabbit Statue)"
+  },
+  {
+    "Floor": "Third Floor",
+    "Primary_Department": "Mechanical / CSE",
+    "Room_Number": "306",
+    "Room_Description": "4th Sem Mechanical",
+    "Floor_Landmarks": "Lift Lobby, Notice Boards, Toilets (Rabbit Statue)"
+  },
+  {
+    "Floor": "Third Floor",
+    "Primary_Department": "Mechanical / CSE",
+    "Room_Number": "307",
+    "Room_Description": "24 Batch Mechanical (2nd Sem)",
+    "Floor_Landmarks": "Lift Lobby, Notice Boards, Toilets (Rabbit Statue)"
+  },
+  {
+    "Floor": "Third Floor",
+    "Primary_Department": "Mechanical / CSE",
+    "Room_Number": "308",
+    "Room_Description": "6th Sem Mechanical",
+    "Floor_Landmarks": "Lift Lobby, Notice Boards, Toilets (Rabbit Statue)"
+  },
+  {
+    "Floor": "Third Floor",
+    "Primary_Department": "Mechanical / CSE",
+    "Room_Number": "309",
+    "Room_Description": "Mechanical Engg. & CSE",
+    "Floor_Landmarks": "Lift Lobby, Notice Boards, Toilets (Rabbit Statue)"
+  },
+  {
+    "Floor": "Third Floor",
+    "Primary_Department": "Mechanical / CSE",
+    "Room_Number": "310",
+    "Room_Description": "Mechanical Engg. & CSE",
+    "Floor_Landmarks": "Lift Lobby, Notice Boards, Toilets (Rabbit Statue)"
+  },
+  {
+    "Floor": "Third Floor",
+    "Primary_Department": "Mechanical / CSE",
+    "Room_Number": "311",
+    "Room_Description": "Mechanical Engg. & CSE",
+    "Floor_Landmarks": "Lift Lobby, Notice Boards, Toilets (Rabbit Statue)"
+  },
+  {
+    "Floor": "Third Floor",
+    "Primary_Department": "Mechanical / CSE",
+    "Room_Number": "312",
+    "Room_Description": "Mechanical Engg. & CSE",
+    "Floor_Landmarks": "Lift Lobby, Notice Boards, Toilets (Rabbit Statue)"
+  },
+  {
+    "Floor": "Third Floor",
+    "Primary_Department": "Mechanical / CSE",
+    "Room_Number": "313",
+    "Room_Description": "Mechanical Engg. & CSE",
+    "Floor_Landmarks": "Lift Lobby, Notice Boards, Toilets (Rabbit Statue)"
+  }
+,
   "campus_name": "College Campus",
   "campus_facilities": [
     {
